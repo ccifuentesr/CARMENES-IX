@@ -4,8 +4,9 @@
 
 The *CARMENES input catalogue of M dwarfs* series contains:
 
-- <a href="#" target="_blank">**VIII. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023, in prep** (this work).
-- <a href="#" target="_blank">VII. To be defined</a>  In prep.
+- <a href="#" target="_blank">**IX. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023, in prep** (this work).
+- <a href="#" target="_blank">VIII. Kinematics in the solar neighbourhood</a>  (Submitted).
+- <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...684A...9S/abstract" target="_blank">VII. New rotation periods for the survey stars and their correlations with stellar activity</a>  In prep.
 - <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.116P/abstract" target="_blank">VI. A time-resolved Ca II H&K catalog from archival data</a>  Perdelwitz et al 2021.
 - <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...642A.115C/abstract" target="_blank">V. Luminosities, colours, and spectral energy distributions</a>  Cifuentes et al 2020.
 - <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...621A.126D/abstract" target="_blank">IV. New rotation periods from photometric time series </a> Díez Alonso et al. 2019.
