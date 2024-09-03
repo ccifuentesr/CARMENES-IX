@@ -1,4 +1,4 @@
-# CARMENES input catalogue of M dwarfs VIII. Multiplicity from close spectroscopic binaries to ultrawide systems
+# CARMENES input catalogue of M dwarfs IX. Multiplicity from close spectroscopic binaries to ultrawide systems
   
 > This repository contains the pieces of code necessary to produce all figures, tables and models in this volume of the series.
 
