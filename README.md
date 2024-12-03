@@ -1,6 +1,4 @@
 # CARMENES input catalogue of M dwarfs IX. Multiplicity from close spectroscopic binaries to ultrawide systems
-  
-> This repository contains the pieces of code necessary to produce all figures, tables and models in this volume of the series.
 
 The *CARMENES input catalogue of M dwarfs* series contains:
 
@@ -20,50 +18,12 @@ The *CARMENES input catalogue of M dwarfs* series contains:
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ccifuentesr)
 
-## Table of Contents
+See the <a href="https://carmenes.caha.es" target="_blank">CARMENES Website</a>.
 
-- [Installation](#installation)
-- [Structure](#structure)
-- [Support](#support)
-- [License](#license)
-- [Suggested Resources](#resources)
+The repository contains:
 
----
-
-## Installation
-
-> The files are self-contained, self-consistent, homogenoeusly formatted, fairly self-explanatory.
-
-- Clone this repo to your local machine using `git clone https://github.com/ccifuentesr/CARMENES-VIII`, or
-- Download this repo as a .zip and run the scripts in your local machine.
-- The installation of some basic libraries is a prerequisite: `numpy`, `scipy`, `astropy`, `matplotlib` or `emcee`, mainly.
-- The font Adobe's Minion Pro is sometimes invoked at the beginning of some scripts to format labels and legends. This line (```fpath = ...```) can be safely commented if unwanted.  
-
-## Structure
-
-The following directories:
-
-- Directory ./: Includes all the code files named as `cif03.xxx_***.py`, where `xxx` defines the usage for the particular code ('plot', 'utilities', 'calculator', 'model').
+- Directory ./: Includes all the code files named as `cif03.xxx_***.py`, where `xxx` defines the usage for the particular code ('plot', 'utilities', 'calculator', 'model'). 
 - Directory ./Data: Includes all necessary auxiliary files.
-
-The **main table** (`cif03.full_table.csv`) [2642 rows, 190 columns, 3.3 MB] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound components.
-
----
-
-## Support
+- The **main table** (`cif03.full_table.csv`) [2634 rows, 132 columns] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound companions.
 
 Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
-
----
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-
----
-
-## Suggested Resources
-
-- <a href="https://carmenes.caha.es" target="_blank">CARMENES Website</a>
