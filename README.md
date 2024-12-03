@@ -1,5 +1,13 @@
 # CARMENES input catalogue of M dwarfs IX. Multiplicity from close spectroscopic binaries to ultrawide systems
 
+The repository contains:
+
+- Directory ./: Includes all the code files named as `cif03.xxx_***.py`, where `xxx` defines the usage for the particular code ('plot', 'utilities', 'calculator', 'model'). 
+- Directory ./Data: Includes all necessary auxiliary files.
+- The **main table** (`cif03.full_table.csv`) [2634 rows, 132 columns] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound companions.
+
+Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
+
 The *CARMENES input catalogue of M dwarfs* series contains:
 
 - <a href="#" target="_blank">**IX. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023** (this work).
@@ -19,11 +27,3 @@ The *CARMENES input catalogue of M dwarfs* series contains:
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ccifuentesr)
 
 See the <a href="https://carmenes.caha.es" target="_blank">CARMENES Website</a>.
-
-The repository contains:
-
-- Directory ./: Includes all the code files named as `cif03.xxx_***.py`, where `xxx` defines the usage for the particular code ('plot', 'utilities', 'calculator', 'model'). 
-- Directory ./Data: Includes all necessary auxiliary files.
-- The **main table** (`cif03.full_table.csv`) [2634 rows, 132 columns] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound companions.
-
-Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
