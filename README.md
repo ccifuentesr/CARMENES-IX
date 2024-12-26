@@ -8,10 +8,10 @@ The repository contains:
 
 Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
 
-The *CARMENES input catalogue of M dwarfs* series contains:
+The *CARMENES input catalogue of M dwarfs* series:
 
-- <a href="#" target="_blank">**IX. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023** (this work).
-- <a href="#" target="_blank">VIII. Kinematics in the solar neighbourhood</a>  Cortés-Contreras et al. 2024 (submitted).
+- <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241212264C/abstract" target="_blank">**IX. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2024 (this work)**.
+- <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.206C/abstract" target="_blank">VIII. Kinematics in the solar neighbourhood</a>  Cortés-Contreras et al. 2024.
 - <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...684A...9S/abstract" target="_blank">VII. New rotation periods for the survey stars and their correlations with stellar activity</a>  Shan et al. 2024
 - <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.116P/abstract" target="_blank">VI. A time-resolved Ca II H&K catalog from archival data</a>  Perdelwitz et al 2021.
 - <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...642A.115C/abstract" target="_blank">V. Luminosities, colours, and spectral energy distributions</a>  Cifuentes et al 2020.
