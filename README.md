@@ -6,8 +6,6 @@ The repository contains:
 - Directory ./Data: Includes all necessary auxiliary files.
 - The **main table** (`cif03.full_table.csv`) [2634 rows, 132 columns] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound companions.
 
-Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
-
 The *CARMENES input catalogue of M dwarfs* series:
 
 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241212264C/abstract" target="_blank">**IX. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2024 (this work)**.
@@ -27,3 +25,4 @@ The *CARMENES input catalogue of M dwarfs* series:
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ccifuentesr)
 
 See the <a href="https://carmenes.caha.es" target="_blank">CARMENES Website</a>.
+Reach out to me at <a href="mailto:ccifuentes@cab.inta-csic.es">`ccifuentes@cab.inta-csic.es`</a>.
