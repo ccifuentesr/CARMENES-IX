@@ -17,7 +17,7 @@ astroquery.simbad.conf.server
 # DATA
 # =============================================================================
 
-Gaia.login(user='ccifuent', password='nOtmY*pAsSw0rd')
+Gaia.login(user='ccifuent', password='***')
 job = Gaia.launch_job(
     "SELECT parallax, phot_g_mean_mag, phot_bp_mean_mag, phot_rp_mean_mag "
     "FROM gaiadr3.gaia_source WHERE parallax_over_error >= 5 AND random_index "
