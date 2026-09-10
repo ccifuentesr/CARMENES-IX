@@ -25,7 +25,7 @@ plt.rcParams['axes.linewidth'] = 1.5
 # DATA
 # =============================================================================
 
-Gaia.login(user = 'ccifuent', password = 'Cwasdqwe!23')
+Gaia.login(user = 'ccifuent', password = '***')
 job = Gaia.launch_job(
     "SELECT TOP 1000000000 l, b FROM gaiadr3.gaia_source WHERE l<=3 AND b>=-2 AND b<=1")
 r = job.get_results()
