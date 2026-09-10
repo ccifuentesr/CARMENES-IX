@@ -15,7 +15,7 @@ def send_radial_gaia_query(query_size=100, distance=20, **kwargs):
     Additional keyword arguments are passed to TapPlus.launch_job_async method.
     """
     from astroquery.gaia import Gaia
-    Gaia.login(user='ccifuent', password='Cwasdqwe!23')
+    Gaia.login(user='ccifuent', password='***')
     job = Gaia.launch_job("select top {}".format(query_size)+
                 #" lum_val, teff_val,"
                 #" ra, dec, parallax,"
