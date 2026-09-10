@@ -26,7 +26,7 @@ def query_gaia(source_id):
     Returns:
         r (astropy.table.Table): Query results
     """
-    Gaia.login(user='ccifuent', password='botzat-zYpzog51')
+    Gaia.login(user='ccifuent', password='***')
     query = f"""
     SELECT source_id, type_best_classification 
     FROM gaiadr3.vari_cepheid 
